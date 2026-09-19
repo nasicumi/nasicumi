@@ -1,53 +1,51 @@
 
-# Hi, I'm Sonny Erwin 👋
+# 👋 Hi, I'm Sonny!
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer
+### 💻 Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student interested in software development and building practical projects. I have experience developing websites using HTML, CSS, PHP, and MySQL, along with basic experience using XAMPP for local development.
-
-I'm currently expanding my programming skills, exploring new technologies, and working on projects to strengthen my knowledge and experience.
+Building projects, learning new technologies, and turning ideas into code.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+Hi! I'm Sonny, a Computer Science student interested in software development and technology.
+
+I'm passionate about learning how things work behind the scenes and applying my knowledge through practical projects.
+
+- 🎓 Currently studying Computer Science.
+- 🌐 Experienced in web development using HTML, CSS, PHP, and MySQL.
+- 🛠️ Familiar with XAMPP for local web development.
+- 📚 Continuously learning and improving my programming skills.
+- 🚀 Interested in exploring new technologies and building useful projects.
+
+I'm always looking for opportunities to learn, experiment, and grow as a developer.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- **Email:** YOUR-EMAIL
+
+Feel free to explore my repositories and projects!
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### Languages & Web Development
-- HTML
-- CSS
-- PHP
-- SQL / MySQL
 
-### Tools & Environment
-- XAMPP
-- Git & GitHub
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+### Tools & Development Environment
 
-## 📂 Projects
-
-Here are some of the projects I've worked on:
-
-- **Web Development Projects** – Websites built using HTML, CSS, PHP, and MySQL.
-- **Database Projects** – Projects involving database design, management, and integration.
-- **Personal Projects** – Small projects to practice programming and explore new technologies.
-
-*More projects coming soon!*
-
----
-
-## 🌱 Currently Learning
-
-- Improving my programming and problem-solving skills
-- Developing more dynamic and interactive websites
-- Learning new technologies and development tools
-- Exploring software development beyond web development
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@nasicumi](https://github.com/nasicumi)
-- Email: sonnyerwin29@gmail.com
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
 ---
 
