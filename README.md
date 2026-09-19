@@ -25,8 +25,8 @@ I'm always looking for opportunities to learn, experiment, and grow as a develop
 
 ## 📫 Connect with Me
 
-- **GitHub:** [@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
-- **Email:** YOUR-EMAIL
+- **GitHub:** [@nasicumi](https://github.com/nasicumi)
+- **Email:** sonnyerwin29@gmail.com
 
 Feel free to explore my repositories and projects!
 
